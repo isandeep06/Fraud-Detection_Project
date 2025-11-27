@@ -1,4 +1,4 @@
-# 🛡️ Fraud Detection Model (94% Accuracy)
+# 🛡️ Fraud Detection Model
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikitlearn)
