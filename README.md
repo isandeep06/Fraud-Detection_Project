@@ -49,7 +49,7 @@ The project demonstrates data preprocessing, feature engineering, model training
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-- Pickle (model serialization)
+- Pickle (model serialisation)
 
 ---
 
